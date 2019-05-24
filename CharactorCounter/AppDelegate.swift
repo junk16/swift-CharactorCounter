@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CharactorCounter
 //
-//  Created by Yamada, Jun | Junkey | OSPD on 2019/05/24.
+//  Created by jun on 2019/05/24.
 //  Copyright © 2019 jun yamada. All rights reserved.
 //
 
